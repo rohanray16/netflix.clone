@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.back-img{
+    height: 750px;
+    border-bottom: 8px solid #222;
+    background-image: linear-gradient(to top, rgba(10, 10, 10, 0.7),rgba(10, 10, 10, 0.7)), url('https://assets.nflxext.com/ffe/siteui/vlv3/c0a32732-b033-43b3-be2a-8fee037a6146/2fe6e3c0-5613-4625-a0c1-3d605effd10b/IN-en-20210607-popsignuptwoweeks-perspective_alpha_website_small.jpg');
+}
+.fsize{
+    font-size: 18px;
+}
+.fcolor{
+    color: white;
+    background-color: transparent;
+}
+.fontt{
+    font-size: 3.5rem;
+    font-weight: bolder;
+    color: white;
+    line-height: 1.1;
+}
+.pad1{
+    margin-top: 4px;
+}
+.dropdown-off {
+    position: absolute;
+    right: -45% !important;
+    left: auto !important;
+    top: 115% !important;
+}
+.btn:focus{
+    outline:none !important;
+    box-shadow:none !important;
+}
+.head{
+    margin-top: 8%;
+}
+.fonta{
+    font-size: 26px;
+    color: white;
+}
+.fontb{
+    color: white;
+    font-size: 18px;
+}
+.fontx{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: white;
+    line-height: 1.1;
+}
+.w-a{
+    width: 430px;
+}
+.fontc{
+    color: white;
+    font-size: 22px;
+}
+.bord-bot{
+    border-bottom: 8px solid #222;
+}
+.w-b{
+    height: 455px;
+    width: 606px;
+}
+.bg-grey{
+    background-color: #222;
+    line-height: 1.5;
+}
+.curs{
+    cursor: pointer;
+}
+.ans-n{
+    display: none !important;
+}
+.ans-b{
+    display: block;
+}
+.icolor{
+    color: white
+}
+.footer{
+    text-decoration: none;
+    color: white;
+    opacity: 0.5;
+    font-size: 15px;
+}
+.footer:hover{
+    color: white;
+    opacity: 0.5;
+    text-decoration: underline;
+}
+.fcolor2{
+    text-decoration: none;
+    color: white;
+    opacity: 0.5;
+    font-size: 15px;
+}
